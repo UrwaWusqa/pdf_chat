@@ -1,0 +1,7 @@
+langchain==0.0.184
+PyPDF2==3.0.1
+streamlit==1.18.1
+huggingface-hub==0.14.1
+chromadb==0.4.5
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
